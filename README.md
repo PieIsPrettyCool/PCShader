@@ -7,8 +7,8 @@ Shaders for plane crazy
 Worked on this for a while check the Shaders.lua file.
 
 [Regular Shader](https://github.com/BlockiBoi/PCShader/blob/main/Shaders.lua)
-
 [Increased Visibility](https://github.com/PieIsPrettyCool/PCShader/blob/main/IncreaseVisibility.lua)
+[Infinite Terrain](https://github.com/PieIsPrettyCool/PCShader/blob/main/IncreaseVisibility.lua)
 
 ----
 
