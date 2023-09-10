@@ -6,9 +6,9 @@ Shaders for plane crazy
 
 Worked on this for a while check the Shaders.lua file.
 
-https://github.com/BlockiBoi/PCShader/blob/main/Shaders.lua
+[Regular Shader](https://github.com/BlockiBoi/PCShader/blob/main/Shaders.lua)
 
-https://github.com/PieIsPrettyCool/PCShader/blob/main/IncreaseVisibility.lua
+[Increased Visibility](https://github.com/PieIsPrettyCool/PCShader/blob/main/IncreaseVisibility.lua)
 
 ----
 
