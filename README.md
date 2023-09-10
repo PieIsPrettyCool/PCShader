@@ -2,14 +2,15 @@
 Shaders for plane crazy
 
 ----
-# Info
-
-Worked on this for a while check the Shaders.lua file.
+# Files
 
 [Regular Shader](https://github.com/BlockiBoi/PCShader/blob/main/Shaders.lua)
+
 [Increased Visibility](https://github.com/PieIsPrettyCool/PCShader/blob/main/IncreaseVisibility.lua)
-[Infinite Terrain](https://github.com/PieIsPrettyCool/PCShader/blob/main/IncreaseVisibility.lua)
+
+[Infinite Terrain](https://github.com/PieIsPrettyCool/PCShader/blob/main/InfiniteTerrain.lua)
 
 ----
 
 ## An executer is needed to run this code.
+### No credit is needed for this shader.
